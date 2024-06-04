@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Employee-DB/static/js/main.6dee1156.js",
+    "main.js": "/Employee-DB/static/js/main.a288a5f6.js",
     "index.html": "/Employee-DB/index.html",
-    "main.6dee1156.js.map": "/Employee-DB/static/js/main.6dee1156.js.map"
+    "main.a288a5f6.js.map": "/Employee-DB/static/js/main.a288a5f6.js.map"
   },
   "entrypoints": [
-    "static/js/main.6dee1156.js"
+    "static/js/main.a288a5f6.js"
   ]
 }
